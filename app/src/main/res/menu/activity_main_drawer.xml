@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/patient_list"
+            android:title="Patient List" />
+        <item
+            android:id="@+id/nav_online"
+            android:title="Registred Members" />
+        <item
+            android:id="@+id/nav_news"
+            android:title="News / Events" />
+        <item
+            android:id="@+id/nav_samajdetail"
+        android:title="Know More" />
+
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+
+            <item
+                android:id="@+id/nav_problem"
+                android:title="Help Center" />
+            <item
+                android:id="@+id/nav_feedback"
+                android:title="Feedback / Review" />
+
+            <item
+                android:id="@+id/nav_about"
+                android:title="About Us" />
+
+
+        </menu>
+    </item>
+
+</menu>

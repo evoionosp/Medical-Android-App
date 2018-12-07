@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">WeCare</string>
+    <string name="institution_title">WeCare Medical Care</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="login">Login</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="connected">Connected to Network</string>
+    <string name="hint_mobile_number">Mobile Number</string>
+    <string name="verify">Verify</string>
+
+
+    <string name="settings">Settings</string>
+    <string name="please_wait">Please Wait…</string>
+    <string name="sign_in">Sign In</string>
+    <string name="error_signin">Error while signing in</string>
+    <string name="try_again">Try Again</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="ok">OK</string>
+    <string name="retry">Retry</string>
+    <string name="reg_fname_hint">Firstname</string>
+    <string name="reg_lname_hint">Lastname</string>
+    <string name="reg_uname_hint">Username</string>
+    <string name="reg_dob_hint">Birth Date</string>
+    <string name="reg_email_hint">Email ID</string>
+    <string name="reg_mobile_hint">Mobile Number</string>
+    <string name="title_personal_details">PERSONAL DETAILS</string>
+    <string name="number">Number</string>
+    <string name="male">Male</string>
+    <string name="other">Other</string>
+    <string name="female">Female</string>
+    <string name="registration">Registration</string>
+    <string name="error">Error</string>
+    <string name="something_wrong">Sorry! Something went wrong.</string>
+
+    <string-array name="BloodGroup">
+        <item>BloodGroup</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+
+    <string-array name="login_role">
+        <item>I am a Nurse</item>
+        <item>I am a Doctor</item>
+    </string-array>
+
+    <string name="reg_address_hint">Home Address</string>
+    <string name="reg_contact_hint">Contact Number</string>
+
+    <!-- ... -->
+    <string name="status_connected">Connected</string>
+    <string name="status_disconnected">No Internet Connection !</string>
+    <string name="unknown_error">Unknown Error !</string>
+    <string name="err_empty_field">Empty Field</string>
+    <string name="err_contain_space">\'  \' (Space) is not alllowed</string>
+    <string name="title_loading">Loading</string>
+    <string name="reg_password_hint">Password</string>
+    <string name="reg_conf_password_hint">Confirm Password</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="not_registered_text"> Don\'t have account? Click to Sign Up</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="patient_details">Patient Details</string>
+    <string name="reg_fullname_hint">Full Name</string>
+    <string name="gender">Gender:</string>
+    <string name="reg_doctor_name_hint">Doctor Name</string>
+    <string name="patient_id">Patient ID</string>
+    <string name="reg_department_hint">Department</string>
+    <!-- Strings related to login -->
+</resources>

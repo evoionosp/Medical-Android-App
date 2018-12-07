@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#1bc48f</color>
+
+    <color name="black_transparent">#7f000000</color>
+    <color name="white_transparent">#7fffffff</color>
+    <color name="positive">#11c927</color>
+    <color name="negative">#c93f11</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorGray">#D0D0D0</color>
+    <color name="colorGrayLight">#e9e9e9</color>
+    <color name="colorGrayDark">#aeaeae</color>
+    <color name="dl_theme">#e36e38</color>
+    <color name="dl_theme_dark">#b1552b</color>
+
+    <color name="clock_wait">#3077d4</color>
+    <color name="clock_back">#cfcfcf</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
